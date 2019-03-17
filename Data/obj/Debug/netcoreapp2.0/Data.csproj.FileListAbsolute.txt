@@ -1,0 +1,14 @@
+D:\StoredProcedure\Practicesp\Data\bin\Debug\netcoreapp2.0\Data.deps.json
+D:\StoredProcedure\Practicesp\Data\bin\Debug\netcoreapp2.0\Data.runtimeconfig.json
+D:\StoredProcedure\Practicesp\Data\bin\Debug\netcoreapp2.0\Data.runtimeconfig.dev.json
+D:\StoredProcedure\Practicesp\Data\bin\Debug\netcoreapp2.0\Data.dll
+D:\StoredProcedure\Practicesp\Data\obj\Debug\netcoreapp2.0\Data.csprojAssemblyReference.cache
+D:\StoredProcedure\Practicesp\Data\obj\Debug\netcoreapp2.0\Data.csproj.CoreCompileInputs.cache
+D:\StoredProcedure\Practicesp\Data\obj\Debug\netcoreapp2.0\Data.AssemblyInfoInputs.cache
+D:\StoredProcedure\Practicesp\Data\obj\Debug\netcoreapp2.0\Data.AssemblyInfo.cs
+D:\StoredProcedure\Practicesp\Data\bin\Debug\netcoreapp2.0\Data.pdb
+D:\StoredProcedure\Practicesp\Data\bin\Debug\netcoreapp2.0\Model.dll
+D:\StoredProcedure\Practicesp\Data\bin\Debug\netcoreapp2.0\Model.pdb
+D:\StoredProcedure\Practicesp\Data\obj\Debug\netcoreapp2.0\Data.csproj.CopyComplete
+D:\StoredProcedure\Practicesp\Data\obj\Debug\netcoreapp2.0\Data.dll
+D:\StoredProcedure\Practicesp\Data\obj\Debug\netcoreapp2.0\Data.pdb

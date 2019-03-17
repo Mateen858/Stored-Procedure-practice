@@ -1,0 +1,16 @@
+D:\StoredProcedure\Practicesp\Practicesp\bin\Debug\netcoreapp2.0\Practicesp.deps.json
+D:\StoredProcedure\Practicesp\Practicesp\bin\Debug\netcoreapp2.0\Practicesp.runtimeconfig.json
+D:\StoredProcedure\Practicesp\Practicesp\bin\Debug\netcoreapp2.0\Practicesp.runtimeconfig.dev.json
+D:\StoredProcedure\Practicesp\Practicesp\bin\Debug\netcoreapp2.0\Practicesp.dll
+D:\StoredProcedure\Practicesp\Practicesp\bin\Debug\netcoreapp2.0\Practicesp.pdb
+D:\StoredProcedure\Practicesp\Practicesp\obj\Debug\netcoreapp2.0\Practicesp.csprojAssemblyReference.cache
+D:\StoredProcedure\Practicesp\Practicesp\obj\Debug\netcoreapp2.0\Practicesp.csproj.CoreCompileInputs.cache
+D:\StoredProcedure\Practicesp\Practicesp\obj\Debug\netcoreapp2.0\Practicesp.AssemblyInfoInputs.cache
+D:\StoredProcedure\Practicesp\Practicesp\obj\Debug\netcoreapp2.0\Practicesp.AssemblyInfo.cs
+D:\StoredProcedure\Practicesp\Practicesp\obj\Debug\netcoreapp2.0\Practicesp.dll
+D:\StoredProcedure\Practicesp\Practicesp\obj\Debug\netcoreapp2.0\Practicesp.pdb
+D:\StoredProcedure\Practicesp\Practicesp\bin\Debug\netcoreapp2.0\Data.dll
+D:\StoredProcedure\Practicesp\Practicesp\bin\Debug\netcoreapp2.0\Model.dll
+D:\StoredProcedure\Practicesp\Practicesp\bin\Debug\netcoreapp2.0\Data.pdb
+D:\StoredProcedure\Practicesp\Practicesp\bin\Debug\netcoreapp2.0\Model.pdb
+D:\StoredProcedure\Practicesp\Practicesp\obj\Debug\netcoreapp2.0\Practicesp.csproj.CopyComplete
